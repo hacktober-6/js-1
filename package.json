@@ -33,6 +33,7 @@
     "@babel/core": "^7.17.10",
     "@babel/preset-env": "^7.17.10",
     "@babel/preset-typescript": "^7.16.7",
+    jsdflksdjflk
     "@metaplex-foundation/amman": "^0.10.0",
     "@metaplex-foundation/amman-client": "^0.1.0",
     "@rollup/plugin-babel": "^5.3.1",
